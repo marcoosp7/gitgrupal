@@ -1,0 +1,29 @@
+body {
+    background-color: #111;
+    color: #FFF;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color:  #0F0;
+    text-decoration: none;
+    font-size: 2em;
+}
+
+#envoltorio{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 3em;
+}
